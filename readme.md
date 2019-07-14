@@ -348,7 +348,7 @@ This week will be dedicated to further expanding on previous topics we've touche
 ---
 
 # Week 10 
-## August 16th through September 20th
+## September 16th through September 20th
 
 ### Overview - 
 This week will be dedicated to working on a full stack personal project. The project will be approved by the instructor and a full MMP should be deployed by mid day Friday. Students should be prepared to show their project to the class in the afternoon on Friday.
@@ -379,10 +379,10 @@ This week will be dedicated to working on a full stack personal project. The pro
 ---
 
 # Week 11 
-## June 3rd through June 7th
+## September 23rd through September 27th
 
 ### Overview - 
-These weeks will mark the beginning of the Final Project. The class will be divided into groups (either randomly or to balance talent). The teams will determine who will be the lead amongst themselves and develop a hierarchy for work to be done. The teams will then meet with clients who will go through a discovery process to determine what the team will develop for the client. Due to the short time, the teams will work on 2day sprints. While the projects will be different, they will both/all test the same skillsets and require mastery of the same subjects to complete. 
+These weeks will mark the beginning of the Final Project. The class will be divided into groups (either randomly or to balance talent). The teams will determine who will be the lead amongst themselves and develop a hierarchy for work to be done. The teams will then meet with clients who will go through a discovery process to determine what the team will develop for the client. Due to the short time, the teams will work on 2day sprints. While the projects will be different, they will both/all test the same skill sets and require mastery of the same subjects to complete. 
 
 #### Monday - 
 * Discussion of Final Project and Team Assignments
@@ -411,7 +411,7 @@ These weeks will mark the beginning of the Final Project. The class will be divi
 ---
 
 # Week 12 
-## June 10th through June 14th
+## September 30th through October 4th
 
 ### Overview - 
 This marks the final week of class and as such is the final week to work on the project. Teams should focus all work on the project and be able to provide updates and MVPs of different parts to the client as needed. 
