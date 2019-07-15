@@ -444,6 +444,7 @@ This marks the final week of class and as such is the final week to work on the 
 ---
 
 # HTML Reference
+## [HTML MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## Semantic Elements -
 If you're going to use semantic elements for part of your page, I recommend using them throughout the entirety of the project. 
@@ -476,6 +477,7 @@ Most used for pretty much all elements are `class`, `id`, and `style`. Below wil
 <sub><sup>[Back to Top](#midland-code-academy)</sup></sub>
 -----
 # CSS Reference
+## [CSS MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 ## Most Used CSS and their Uses
 * `background` - Single declaration styling to set multiple background properties.
     * `background-attachment` - How the background image attaches to the screen.

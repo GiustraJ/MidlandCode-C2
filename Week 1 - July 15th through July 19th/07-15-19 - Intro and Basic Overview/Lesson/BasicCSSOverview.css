@@ -2,6 +2,13 @@ header {
     font-family: 'Helvetica', sans-serif;
 }
 
+/* selector
+  .class
+  #id
+  element
+ {
+    attribute: value;
+} */
 p{
     font-family: "Roboto", -apple-system, "San Francisco", "Segoe UI", "Helvetica Neue", sans-serif;
 }

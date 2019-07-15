@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Tables and Forms</title>
-    <link rel="stylesheet" type="text/css" href="../../05-10-18/Lesson/formstyles.css">
+    <link rel="stylesheet" type="text/css">
 </head>
 <body>
 <nav>
@@ -117,7 +117,7 @@
         </table>
     </article>
     <article>
-        <p class="center"> Table rows can span multiple columns or rows with the colspan or rowspan attribute</>
+        <p class="center"> Table rows can span multiple columns or rows with the colspan or rowspan attribute</p>
         <table>
             <caption>Spanning multiple Columns</caption>
             <tr>
@@ -128,11 +128,11 @@
                 <th>Friday</th>
             </tr>
             <tr>
-                <td colspan="5">Work</td>
+                <td style="background-color: red" colspan="5">Work</td>
             </tr>
             <tr>
                 <td></td>
-                <td colspan="3">Class</td>
+                <td style="background-color: blue" colspan="3">Class</td>
                 <td></td>
             </tr>
         </table>
@@ -144,12 +144,11 @@
                 <td>Mike Truax</td>
             </tr>
             <tr>
-                <th rowspan="2">Contact Info</th>
+                <th style="background-color: red" rowspan="2">Contact Info</th>
                 <td>555-123-4567</td>
             </tr>
             <tr>
                 <td>example@email.com</td>
-
             </tr>
         </table>
 
@@ -168,10 +167,14 @@
             with onsubmit and js function. Below is a normal login with a secret!
         </p>
         <form action="randomwebsite.website" method="post" id="firstForm">
-                <label for="username">Username</label>
-                <input type="text" id="username" name="username" placeholder="Username">
-                <label for="username">Password</label>
+                
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" placeholder="Username">
+                
+                
+                <label for="password">Password</label>
                 <input type="password" id="password" name="password" placeholder="Password">
+                
                 <p for="hiddeninput">That's all there is right?</p>
                 <input type="hidden" id="hiddeninput" name="hiddeninput" value="Super Secret">
                 <input type="submit" value="Submit form" onclick="logMeIn">
@@ -247,7 +250,7 @@
 
             <p>Text area inputs allow for A TON of text:</p>
             <label for="textarea">Your life story</label>
-            <textarea id="textarea" class="container" style="height: 100px"></textarea>
+            <textarea id="textarea" class="container"></textarea>
             <p>HTML5 also introduced a bunch of new inputs as well but make sure you check cross browser compatibility:</p>
 
             <label for="html5-2">Date</label>
