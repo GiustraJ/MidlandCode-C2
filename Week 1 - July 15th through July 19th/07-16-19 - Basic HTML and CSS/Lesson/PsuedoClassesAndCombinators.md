@@ -15,7 +15,7 @@ Pseudo-classes follow the same format (regardless of which one it is). You start
 * :nth-child Specific rules for which children to apply the rules to. This can be one of the following patterns:
     * :nth-child(even) or :nth-child(odd) - selects only even or odd children respectively.
     * :nth-child(an+b) - Uses a calculation to select which child(ren) to apply the rules to. [Examples](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child#Example_selectors)
-
+* :not() - Everything but the specific selector(s) in the parenthesis
 
 ### Combinators
 Combinators are weird. There are no two-ways about it. They give you a lot more control over specificity but can be sometimes clunky at best to use.
